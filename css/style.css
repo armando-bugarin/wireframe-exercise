@@ -1,0 +1,30 @@
+header, footer {
+    background-color: gray;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    padding: 10px;
+  }
+
+nav a {
+    text-decoration: none;
+    color: lightgray;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    padding: 30px;
+}
+
+.three-wide {
+    display: flex;
+}
+
+.two-wide {
+    display: flex;
+  }
